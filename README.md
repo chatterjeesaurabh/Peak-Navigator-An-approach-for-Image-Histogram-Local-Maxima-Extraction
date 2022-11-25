@@ -8,3 +8,4 @@ Project Members:
 2. Abhijeet Aditya  22EE65R15
 3. Chandrashekhar Maurya  22EE65R13
 
+SPML (Electrical Engineering), M.Tech, IIT Kharagpur
