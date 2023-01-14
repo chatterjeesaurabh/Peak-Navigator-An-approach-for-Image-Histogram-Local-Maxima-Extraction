@@ -1,6 +1,6 @@
 # Image_Processing_Project
 
-Project Name:  "Summit Navigator: A Novel Approach for Local Maxima Extraction"
+Project Name:  "Summit Navigator: A Novel Approach for Image Histogram Local Maxima Extraction"
 
 
 Project Members:
